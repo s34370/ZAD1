@@ -1,3 +1,3 @@
-<Emil> <Pidek>
-<13C>
-<s34370>
+Emil Pidek
+13C
+s34370
